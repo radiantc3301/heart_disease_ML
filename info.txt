@@ -1,0 +1,14 @@
+age - in years
+sex - (0 - female, 1 - male)
+cp - chest pain type (4 values - 0,1,2,3)
+trestbps - resting blood pressure(in mm Hg)
+chol - serum cholestoral in mg/dl
+fbs - fasting blood sugar(>120 mg/dl - 1, <120 mg/dl - 0)
+restecg - resting electrocardiographic results (0,1,2)
+thalach - maximum heart rate achieved(bpm)
+exang - exercise induced angina(1 - yes, 0 - no)
+oldpeak = ST depression induced by exercise relative to rest
+slope - the slope of the peak exercise ST segment
+ca - number of major vessels(0-3) coloured by flouroscopy
+thal - (0 - normal, 1-fixed defect, 2 - reversable defect)
+target - (0 - no heart disease, 1 - heart disease)

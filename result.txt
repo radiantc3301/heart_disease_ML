@@ -1,0 +1,1 @@
+1. the accuracy rate for heart risk perceptron model is between 48.6% so perceptron model is not suitable here as the values are not linearly seperable.
